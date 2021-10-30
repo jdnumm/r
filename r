@@ -1,9 +1,11 @@
 #!/bin/sh
 
 # MIT License
-
 # Copyright (c) 2020
-# mono // layereight@blacktre.es
+
+# Johannes Daniel Nümm
+# daniel.nuemm@blacktre.es
+# https://blacktre.es
 
 name=$(echo $(pwd) | tr / '_')
 
